@@ -44,7 +44,7 @@ Also, in line, 51, changes values mark1 and mark2 to desired. This value represe
 Example:
 mark1= 0 mark2= 1  (this would mean save audio segments with crackles)
 
-To make it easier to organize data, create four folders named 00, 01, 10, 11 for each data group. 
+To make it easier to organize data, create four folders named 00, 01, 10, 11 for each data group.  Normal = 00, wheeze = 01, crackle = 10 and both = 11.
 ## GAN
 CAREFUL!!!
 Do not load images at the same time with different marks (different kind 00, 01, 10, 11)
